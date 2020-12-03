@@ -1,4 +1,4 @@
-#cette classe utilise comme exemple les cartes Ultimate team dans fifa (voir photo en dessous du code)
+#cette classe utilise comme exemple les cartes Ultimate team dans fifa 
 class carte_joueur :
     
     maillot = 1
